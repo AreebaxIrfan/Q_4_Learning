@@ -57,7 +57,6 @@ Thanks for taking the time to explore the magic of Generative AI with me! Let’
 ---
 
 ### Image
-
 ![A super-smart robot artist in a futuristic studio, surrounded by vibrant screens displaying a flying cat, a sparkly dragon, and a jungle full of talking monkeys, blending futuristic technology with whimsical fantasy elements.](attachment://g.jpg)
 
 *Caption*: A robot artist creates magical worlds with Generative AI!
