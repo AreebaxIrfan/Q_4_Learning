@@ -57,7 +57,7 @@ Thanks for taking the time to explore the magic of Generative AI with me! Let’
 ---
 
 ### Image
-![Alt text](/g.jpg)
+![Alt text](g.jpg)
 
 
 *Caption*: A robot artist creates magical worlds with Generative AI!
