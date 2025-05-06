@@ -1,5 +1,12 @@
 # Generative AI: The Future of Technology
+---
 
+![Alt text](g.jpg)
+
+
+*Caption*: A robot artist creates magical worlds with Generative AI!
+
+---
 What if a robot could draw a flying cat, write a pirate adventure, or invent a new game just for you? That’s **generative AI**, and it’s turning our wildest dreams into reality! This super-smart tech is like a magic wand for creating new things, and it’s about to make the future super exciting!
 
 ## What is Generative AI? (Explain Like I’m 5)
@@ -54,15 +61,7 @@ Thanks for taking the time to explore the magic of Generative AI with me! Let’
 - 💼 [LinkedIn: Areeba Irfan](https://www.linkedin.com/in/areebairfan/)  
 - 🐦 [Twitter/X: @areebaXirfan](https://x.com/areebaXirfan)
 
----
 
-### Image
-![Alt text](g.jpg)
-
-
-*Caption*: A robot artist creates magical worlds with Generative AI!
-
----
 
 ### Topics (Tags)
 
