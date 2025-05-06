@@ -33,7 +33,7 @@ Sometimes, AI draws silly things or makes mistakes. We need to teach it to be fa
 
 ## What Makes Generative AI Special?
 
-Generative AI is tech that creates new stuff—like text, images, or music—by learning from huge piles of data. Unlike regular AI that just analyzes, this AI acts like a creative artist. It uses tools like language models (e.g., [Grok 3](https://grok.com)) and image generators (e.g., [Stable Diffusion](https://stability.ai/stable-diffusion)) to make things like a poem or a sci-fi movie poster. For example, an AI once designed a sneaker ad that went viral!
+Generative AI is tech that creates new stuff—like text, images, or music—by learning from huge piles of data. Unlike regular AI that just analyzes, this AI acts like a creative artist. It uses tools like language models  and image generators  to make things like a poem or a sci-fi movie poster. For example, an AI once designed a sneaker ad that went viral!
 
 ## Why It’s Changing the World
 
@@ -60,7 +60,7 @@ Thanks for taking the time to explore the magic of Generative AI with me! Let’
 - 🐙 [GitHub: AreebaxIrfan](https://github.com/AreebaxIrfan)  
 - 💼 [LinkedIn: Areeba Irfan](https://www.linkedin.com/in/areebairfan/)  
 - 🐦 [Twitter/X: @areebaXirfan](https://x.com/areebaXirfan)
-
+- ✍️ [Medium: Areeba Irfan](https://medium.com/@areebaxirfan)
 
 
 ### Topics (Tags)
