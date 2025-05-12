@@ -1,0 +1,12 @@
+[project]
+name = "06-task-tracher-api"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi[standard]>=0.115.12",
+    "flask>=3.1.0",
+    "pydantic[email]>=2.11.4",
+    "uvicorn>=0.34.2",
+]
