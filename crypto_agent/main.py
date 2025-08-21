@@ -37,7 +37,7 @@ def crypto_data():
     return result
 
 
-# Main Areeba Irfan Agent
+# Main Crypto Agent
 crypto_agent = Agent(
     name="crypto_agent",
     instructions="If the user asks about cryptocurrency data, provide the latest global cryptocurrency statistics.",
